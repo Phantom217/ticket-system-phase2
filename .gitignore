@@ -88,3 +88,6 @@ working/
 
 # Packages
 *.7z
+
+# Report document
+phase2-report.pdf
